@@ -116,3 +116,7 @@ Códigos de salida: `0` sin anomalías, `1` falla de integridad, `2` alertas
 heurísticas (pegados masivos, inserciones externas, extensiones prohibidas).
 
 Guía completa: [manual de uatu](https://github.com/INGCOM-UNRN-P1/uatu/blob/main/manual/index.md).
+
+## Contacto
+
+Martín René Vilugrón - mrvilugron@unrn.edu.ar - Ingeniería en Computación UNRN Andina
