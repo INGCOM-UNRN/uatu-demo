@@ -31,7 +31,7 @@ jobs:
       - name: Clonar uatu-tools
         uses: actions/checkout@v7
         with:
-          repository: INGCOM-UNRN-P1/uatu-tools
+          repository: INGCOM-UNRN/uatu-tools
           ref: ${{ vars.UATU_TOOLS_REF || 'main' }}
           path: .uatu-tools
 
